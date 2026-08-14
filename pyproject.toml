@@ -9,7 +9,7 @@ description = "Focused maintained PASTE runtime for spatial transcriptomics regi
 readme = "README.md"
 requires-python = ">=3.11,<3.15"
 license = "BSD-3-Clause"
-license-files = ["LICENSE"]
+license-files = ["LICENSE", "NOTICE.md"]
 authors = [
   {name = "Max Land"},
   {name = "Raphael Lab"},
